@@ -1,5 +1,7 @@
-Index of abalone
+Index of credit-screening
 
-02 Dec 1996      114 Index
-12 Jun 1996   191873 abalone.data
-12 Jun 1996     4319 abalone.names
+02 Dec 1996      182 Index
+19 Sep 1992    32218 crx.data
+19 Sep 1992     1486 crx.names
+16 Jul 1992    12314 credit.lisp
+16 Jul 1992      522 credit.names
